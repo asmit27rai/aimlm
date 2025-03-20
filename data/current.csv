@@ -1,0 +1,3 @@
+id,name,host_id,host_name,neighbourhood_group,neighbourhood,latitude,longitude,room_type,target,minimum_nights,number_of_reviews,last_review,reviews_per_month,calculated_host_listings_count,availability_365
+27149449,LUXURY 1BR ON EAST 44TH~DOORMAN/LAUNDRY,200380610,Pranjal,Manhattan,Midtown,40.75019,-73.97045,Entire home/apt,225,30,0,,,65,310
+27149550,Cozy Private Room in Manhattan,200380611,John,Manhattan,Harlem,40.81122,-73.94633,Private room,75,2,10,2020-01-15,0.85,2,120

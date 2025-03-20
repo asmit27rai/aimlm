@@ -1,0 +1,6 @@
+id,name,host_id,host_name,neighbourhood_group,neighbourhood,latitude,longitude,room_type,target,minimum_nights,number_of_reviews,last_review,reviews_per_month,calculated_host_listings_count,availability_365
+27140780,Bright cozy private room in stylish Brooklyn apt,1409262,Sarah,Brooklyn,Flatbush,40.64228,-73.95204,Private room,40,2,4,2018-09-28,0.37,6,260
+27141013,Modern Newly Renovated Home Away From Home,204346423,Yva,Brooklyn,Mill Basin,40.61768,-73.91669,Entire home/apt,85,2,36,2019-07-07,3.26,1,322
+27141191,NewlyBuilt+Terrace 3min▶︎Subway 30min Manhattan,19303369,Hiroki,Queens,Elmhurst,40.74022,-73.87614,Private room,34,30,0,,,37,0
+27142225,Lovely Brownstone in Brooklyn Heights,624101,Zak,Brooklyn,Brooklyn Heights,40.69176,-73.99336,Entire home/apt,132,3,6,2019-05-27,0.55,1,0
+27143808,Modern studio apt with full kitchen and bath,13031306,Rachael,Manhattan,Harlem,40.82372,-73.95122,Private room,80,2,19,2018-12-03,1.71,1,0
