@@ -29,7 +29,7 @@ Follow these steps to set up the project on your local machine:
 
 1. **Clone the Repository**:
    ```bash
-   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/asmit27rai/aimlm)
+   git clone https://github.com/asmit27rai/aimlm
    cd aiml
 
 2. **Create a Virtual Environment**;
